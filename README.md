@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Tejas Patil, a passionate MERN stack developer and a final year BE CS student.<br><br>🚀 I love creating web applications that solve real-life problems and enhance user experience.<br><br>🌱 I'm constantly learning and expanding my skills in Java for backend development, Spring Boot, and advanced React.<br><br>📚 When I'm not coding, you can find me delving into new technologies, exploring innovative ideas, or enjoying a cup of tea and snacks.<br><br>🔗 Feel free to check out my projects and connect with me!
+👋 Hi there! I'm Tejas Patil, a passionate MERN stack developer and a final year BE IT student.<br><br>🚀 I love creating web applications that solve real-life problems and enhance user experience.<br><br>🌱 I'm constantly learning and expanding my skills in Java for backend development, Spring Boot, and advanced React.<br><br>📚 When I'm not coding, you can find me delving into new technologies, exploring innovative ideas, or enjoying a cup of tea and snacks.<br><br>🔗 Feel free to check out my projects and connect with me!
 
 
 ## 🌐 Socials:
